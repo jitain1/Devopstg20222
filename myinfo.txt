@@ -1,0 +1,9 @@
+hello all how are you
+Class A {
+
+public Static void main string arg[]
+
+}
+
+system.out.println(""ab")
+}
